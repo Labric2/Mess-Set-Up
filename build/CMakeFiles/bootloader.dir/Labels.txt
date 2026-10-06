@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+C:/Users/djlab/OneDrive/Documents/GitHub/Mess Set Up/build/CMakeFiles/bootloader
+C:/Users/djlab/OneDrive/Documents/GitHub/Mess Set Up/build/CMakeFiles/bootloader.rule
+C:/Users/djlab/OneDrive/Documents/GitHub/Mess Set Up/build/CMakeFiles/bootloader-complete.rule
+C:/Users/djlab/OneDrive/Documents/GitHub/Mess Set Up/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+C:/Users/djlab/OneDrive/Documents/GitHub/Mess Set Up/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/Users/djlab/OneDrive/Documents/GitHub/Mess Set Up/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/Users/djlab/OneDrive/Documents/GitHub/Mess Set Up/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/Users/djlab/OneDrive/Documents/GitHub/Mess Set Up/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/Users/djlab/OneDrive/Documents/GitHub/Mess Set Up/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/Users/djlab/OneDrive/Documents/GitHub/Mess Set Up/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
